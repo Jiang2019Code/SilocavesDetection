@@ -1,0 +1,8 @@
+
+path: E:\PYTHONPROJECT\SilocavesDetection\Data\GoogleEarthData\Combine\YOLO
+train: images/train/512
+val: images/val/512
+test: 
+names:
+  0: Silo-cave
+download: false
