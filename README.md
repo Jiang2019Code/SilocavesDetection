@@ -171,7 +171,11 @@ Mount the Current Project Directory to the /workspace Directory
 ```python Source/SilocaveDEMDistribution.py```  
 ```python Source/statsAccurate.py```
 
-Contact Us：jiangdeyang1004@163.com
+## Licence
+CC-BY 3.0
+
+## Contact Us
+jiangdeyang1004@163.com
 
 
 
