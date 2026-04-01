@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19248725.svg)](https://doi.org/10.5281/zenodo.19248725)
 
 ## Python scripts for the manuscript 'Intelligent Identification of Silo-Cave Traditional Residences in the Chinese Loess Plateau Based on Deep Learning'
-## The repository is organised into the following main directories:
 ## The training data must be downloaded from the Zenodo website(https://doi.org/10.5281/zenodo.19248725).
+## The repository is organised into the following main directories:
 
 1. **Data directory**
 - **GoogleEarthData** directory:  The silo-cave training dataset is used for model training and includes two data formats, coco and yolo, for various model training.
