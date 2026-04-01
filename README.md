@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19248725.svg)](https://doi.org/10.5281/zenodo.19248725)
 ## Data and python scripts for the manuscript 'Intelligent Identification of Silo-Cave Traditional Residences in the Chinese Loess Plateau Based on Deep Learning'
 ## The repository is organised into the following main directories:
 1. **Data directory**  
